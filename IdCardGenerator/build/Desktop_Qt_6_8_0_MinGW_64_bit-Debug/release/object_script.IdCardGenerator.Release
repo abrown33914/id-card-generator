@@ -1,0 +1,14 @@
+release/createidform.o
+release/facultycarddisplay.o
+release/facultyform.o
+release/main.o
+release/mainwindow.o
+release/studentcarddisplay.o
+release/studentform.o
+release/qrc_qmake_qmake_qm_files.o
+release/moc_createidform.o
+release/moc_facultycarddisplay.o
+release/moc_facultyform.o
+release/moc_mainwindow.o
+release/moc_studentcarddisplay.o
+release/moc_studentform.o
