@@ -66,5 +66,5 @@ QString globalLogoPath = "C:/Users/abrow/OneDrive/Documents/QT/fgcu_logo.png";
 
 ## 💥 Why This Project Stands Out
 
-This project is a strong showcase of **core C++ programming concepts** learned throughout the **Fall 2024 semester**, highlighting object-oriented principles such as **polymorphism, inheritance, and encapsulation**, alongside solid **memory management** and **control structure** utilization. Additionally, **robust error and exception handling** ensures a smooth user experience.
+This project is a strong showcase of core C++ programming concepts learned throughout the Fall 2024 semester, highlighting object-oriented principles such as polymorphism, inheritance, and encapsulation, alongside solid memory management and efficient control structure utilization. Additionally, robust error and exception handling ensures a smooth user experience.
 
