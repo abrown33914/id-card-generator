@@ -1,6 +1,4 @@
-Here's an updated version of your README with emojis, styled like the one you shared:
 
----
 
 # 🎫 ID Card Generator with Qt
 
@@ -70,6 +68,3 @@ QString globalLogoPath = "C:/Users/abrow/OneDrive/Documents/QT/fgcu_logo.png";
 
 This project is a strong showcase of **core C++ programming concepts** learned throughout the **Fall 2024 semester**, highlighting object-oriented principles such as **polymorphism, inheritance, and encapsulation**, alongside solid **memory management** and **control structure** utilization. Additionally, **robust error and exception handling** ensures a smooth user experience.
 
----
-
-Feel free to copy this directly into your README file!
