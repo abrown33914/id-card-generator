@@ -50,7 +50,7 @@ Find the following lines:
 
 ```cpp
 // ####### REPLACE WITH YOUR FGCU LOGO IMAGE PATH #############################
-QString globalLogoPath = "C:/Users/abrow/OneDrive/Documents/QT/fgcu_logo.png";
+QString globalLogoPath = "C:/path/to/your/logo.png";
 // ############################################################################
 ```
 
