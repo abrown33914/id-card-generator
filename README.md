@@ -1,6 +1,6 @@
 
 # 🎫 ID Card Generator with Qt
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/abrown33914/id-card-generator/badge)](https://securityscorecards.dev/viewer/?uri=github.com/abrown33914/id-card-generator)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10236/badge)](https://www.bestpractices.dev/projects/10236)   [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/abrown33914/id-card-generator/badge)](https://securityscorecards.dev/viewer/?uri=github.com/abrown33914/id-card-generator)
 
 The **ID Card Generator** is a comprehensive application developed for a **Programming II Final Project**. Built with **Qt** and **C++**, this project allows users to generate professional ID cards for **Florida Gulf Coast University** students and faculty with a simple, user-friendly interface. Featuring **PDF export capabilities**, the application makes it easy to save and manage ID cards directly on your computer.
 
