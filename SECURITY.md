@@ -6,7 +6,7 @@ To report a vulnerability in this project, please follow these steps:
 
 1. **Do not open a public issue**. For security reasons, please **do not** open an issue on GitHub if you believe you have found a vulnerability. Instead, send a private message to our security team.
 
-2. **Contact us securely**. Please send a detailed email to [your-email@example.com] with the subject "Security Vulnerability Report" to disclose any vulnerabilities. Include as much detail as possible to help us reproduce and fix the issue.
+2. **Contact us securely**. Please send a detailed email to [abrown33914@gmail.com] with the subject "Security Vulnerability Report" to disclose any vulnerabilities. Include as much detail as possible to help us reproduce and fix the issue.
 
 3. **Information to include**:
    - A description of the vulnerability and potential risks.
