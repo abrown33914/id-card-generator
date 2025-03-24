@@ -1,0 +1,8 @@
+version: 2
+updates:
+  - package-ecosystem: "npm"  # Change to the package manager used in your project (e.g., npm, python, etc.)
+    directory: "/"  # Location of your package file (e.g., package.json or requirements.txt)
+    schedule:
+      interval: "weekly"  # Choose the frequency: "daily", "weekly", "monthly"
+    commit-message:
+      prefix: "fix"
