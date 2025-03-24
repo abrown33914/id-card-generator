@@ -1,0 +1,7 @@
+# Ignore build artifacts and binary files
+/build/
+*.o
+*.exe
+*.class
+*.pyc
+*.log
